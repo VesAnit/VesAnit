@@ -4,10 +4,7 @@ All my projects are open-source and available for personal use.
 
 Just part of it:
 
-- **[CheqReq](https://github.com/VesAnit/CheckReq/blob/master/Screenshots/interface2.png)**: A self-testing agentic system that generates fully compatible package configurations. Ideal for:
-  - Creating Dockerfiles with ease.
-  - Setting up clean environments.
-  - Preventing conflicts from new packages.
+- **[Beauty Clinic Admin](https://github.com/VesAnit/beauty_clinic_public/tree/main)**: Public-facing slice of a production system for aesthetic medicine clinics.  
 
 - **[GetPet](https://github.com/VesAnit/GetPet-back/blob/master/screenshots/1.jpg)**: A mobile app for Android that helps find homes for animals. It's deployed, ready to launch, and available for non-profit use—happy to share access keys.
 
