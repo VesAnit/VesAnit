@@ -6,7 +6,11 @@ Just part of it:
 
 - **[Beauty Clinic Admin](https://github.com/VesAnit/beauty_clinic_public/tree/main)**: Public-facing slice of a production system for aesthetic medicine clinics.  
 
-- **[GetPet](https://github.com/VesAnit/GetPet-back/blob/master/screenshots/1.jpg)**: A mobile app for Android that helps find homes for animals. It's deployed, ready to launch, and available for non-profit use—happy to share access keys.
+- **[Moscow_apartment_price_prediction](https://github.com/VesAnit/kaggle-rent-price-pub/tree/master)**: Data science analysis for a Kaggle-style regression task, predicting Moscow apartment sale prices from listings and macroeconomic data using EDA, feature engineering, and a CatBoost + LightGBM ensemble.
+
+- **[Author_identification_from_text](https://www.kaggle.com/code/vesperalevtina/accuracy-more-than-60)**: Data science analysis for a text classification task, identifying literary authors with fine-tuned DistilBERT and RuBERT (Transformers), with over 60% accuracy on the test set.
+
+- **[GetPet](https://github.com/VesAnit/GetPet-back/blob/master/screenshots/1.jpg)**: A mobile app for Android that helps find homes for animals. It's deployed, ready to launch, and available for non-profit use.
 
 - **[Caesar_cipher_AI](https://github.com/VesAnit/Caesar_cipher_AI/blob/main/Ceaser_LSTM.ipynb)**: An LSTM model trained to decode Caesar ciphers, achieving over 95% accuracy on the test dataset.
 
