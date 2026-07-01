@@ -6,7 +6,7 @@ Just part of it:
 
 - **[Beauty Clinic Admin](https://github.com/VesAnit/beauty_clinic_public/tree/main)**: Public-facing slice of a production system for aesthetic medicine clinics (with a demo).
 - 
-- **[AI Assistant for technical support for a company produces ventilation system (evaluation stage)](https://drive.google.com/file/d/11xzxuPyrSyIUKUr6uaqt9ztrllFWJ2k-/view?usp=sharing)**: Pulic facing slace  of a production system for a company produces ventilation system (with a demo).
+- **[AI Assistant for technical support for a company produces ventilation system (evaluation stage)](https://github.com/VesAnit/RAG-service-support-public/blob/main/README.md)**: Pulic facing slace  of a production system for a company produces ventilation system (with a demo).
 
 - **[Moscow_apartment_price_prediction](https://github.com/VesAnit/kaggle-rent-price-pub/tree/master)**: Data science analysis for a Kaggle-style regression task, predicting Moscow apartment sale prices from listings and macroeconomic data using EDA, feature engineering, and a CatBoost + LightGBM ensemble.
 
